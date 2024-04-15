@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "image-downloader": "^4.3.0"
+  },
+  "name": "wtl",
+  "description": "A web Application that enables to\r property owners (hosts) to list their available\r accommodations on the platform. Potential\r guests can search for listings based on their\r preferences, such as location, price, property\r type, and more.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalk1972/VenueVista.git"
+  },
+  "author": "sarthak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalk1972/VenueVista/issues"
+  },
+  "homepage": "https://github.com/vishalk1972/VenueVista#readme",
+  "keywords": [
+    "hotel"
+  ]
+}
